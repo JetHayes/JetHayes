@@ -1,4 +1,4 @@
-# Hello world, I'm John Cavanaugh
+# Hello World, I'm John Cavanaugh
 
 I'm a PhD candidate in Aerospace Engineering at the University of Cincinnat at the AI BIO Lab focused on fuzzy logic, evolutionary algorithms, AI architecture, and explainable AI. I also run the [Plunk Foundation](https://plunkfoundation.org), building privacy-preserving coordination systems for organizations serving vulnerable families globally.
 
@@ -6,7 +6,7 @@ I'm a PhD candidate in Aerospace Engineering at the University of Cincinnat at t
 
 ---
 
-## what I work on
+## What I Work on
 
 - **Fuzzy inference systems** — Mamdani, TSK, and GA-optimized FIS built from scratch
 - **Evolutionary algorithms** — genetic algorithms for automated system tuning and combinatorial optimization
@@ -15,7 +15,7 @@ I'm a PhD candidate in Aerospace Engineering at the University of Cincinnat at t
 
 ---
 
-## featured projects
+## Featured Projects
 
 ### [GA-FIS: Genetic Algorithm-Optimized Fuzzy Inference System](https://github.com/JetHayes/ga-fuzzy-inference-system)
 A fuzzy inference system where membership function parameters and rule outputs are evolved by a custom genetic algorithm. Built from scratch in Python. Best training RMSE: 0.0373 after 13 trials of systematic hyperparameter exploration.
@@ -43,13 +43,13 @@ Mamdani FIS for intelligent prioritization of student peer review feedback acros
 
 ---
 
-## background
+## Background
 
 Before the PhD I spent 13+ years in industry and founded a student platform company. I turned down a significant acquisition offer rather than build surveillance technology. That decision still anchors how I think about what I build and why.
 
 ---
 
-## stack
+## Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -59,7 +59,7 @@ Before the PhD I spent 13+ years in industry and founded a student platform comp
 
 ---
 
-## find me
+## Find Me
 
 - University of Cincinnati AI BIO Lab
 - [LinkedIn](https://www.linkedin.com/in/privacy-evangelist/)
