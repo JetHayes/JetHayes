@@ -62,8 +62,8 @@ Before the PhD I spent 13+ years in industry and founded a student platform comp
 ## find me
 
 - University of Cincinnati AI BIO Lab
-- [LinkedIn](https://www.linkedin.com/in/privacy-evangelist/) — replace with your URL
-- [Plunk Foundation](https://goplunk.org) — replace with your URL
+- [LinkedIn](https://www.linkedin.com/in/privacy-evangelist/)
+- [Plunk Foundation](https://goplunk.org)
 - [Email](mailto:johnthecavanaugh@gmail.com)
 
 <!--
