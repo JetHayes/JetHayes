@@ -2,7 +2,7 @@
 
 I'm a PhD candidate in Aerospace Engineering at the University of Cincinnat at the AI BIO Lab focused on fuzzy logic, evolutionary algorithms, AI architecture, and explainable AI. I also run the [Plunk Foundation](https://plunkfoundation.org), building privacy-preserving coordination systems for organizations serving vulnerable families globally.
 
-> I build AI systems that are transparent by design — not as an afterthought.
+> I build AI systems with transparency, explainability, and privacy by design 
 
 ---
 
